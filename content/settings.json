@@ -1,24 +1,24 @@
 {
-  "store_id": 2230,
-  "name": "atacadodebolsas",
   "domain": "atacadodebolsas.netlify.app",
-  "short_name": "atacadodebolsas",
-  "description": "atacadodebolsas",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#ffb733",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/atacadodebolsas",
+  "logo": "/img/uploads/logo.jpg",
+  "name": "AtacadoDeBolsas | Bolsas Para Revenda",
+  "short_name": "AtacadoDeBolsas",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/atacadodebolsas"
+  "secondary_color": "#333333",
+  "icon": "/img/uploads/logo.jpg",
+  "store_id": 2230,
+  "description": "Loja virtual de Atacado de Bolsas. Lindas bolsas femininas direto da fábrica para revenda. O lugar ideal para quem procura bolsas baratas no atacado para revender.",
+  "large_icon": "/img/uploads/logo.jpg"
 }
