@@ -1,7 +1,7 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Entregamos em todo o Brasil"
   },
   "installments": {
     "show": true,
@@ -9,10 +9,10 @@
   },
   "exchange": {
     "show": true,
-    "text": "Compre 24 e Ganhe 02 Peças De Bônus !"
+    "text": "Compre 25 e Ganhe 02 Peças De Bônus !"
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "Diferentes Promoções ao Longo do Ano!"
   }
 }
