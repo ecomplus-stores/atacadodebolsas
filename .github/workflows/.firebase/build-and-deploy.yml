@@ -37,7 +37,7 @@ jobs:
           ref: ${{ github.ref }}
 
       - name: Setup Node
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v2
         with:
           node-version: '12.x'
 
@@ -79,7 +79,7 @@ jobs:
               exit 0;
             fi
           fi
-          npm run build -- --prerender=index,app/index,search,404 --prerender-limit=40;
+          npm run build -- --prerender=index,app/index,search,404,blog,admin/index --prerender-limit=0;
           echo "::set-output name=isg::0";
         id: partial_build
 
