@@ -18,7 +18,14 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/bolsas-femininas/?Bolsas Femininas",
+      "/importadas/?Importadas",
+      "/carteiras/?Carteiras",
+      "/mochilas/?Mochilas",
+      "/malas/?Malas",
+      "/acessorios/?Acessórios"
+    ],
     "random": 6,
     "full_width": false
   },
