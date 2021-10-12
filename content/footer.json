@@ -10,8 +10,13 @@
   },
   "links_2": {
     "list_categories": false,
-    "title": "Categorias",
-    "list": []
+    "title": "Nossos Produtos",
+    "list": [
+      {
+        "text": "Bolsas Femininas",
+        "url": "https://atacadodebolsas.netlify.app/bolsas-femininas/"
+      }
+    ]
   },
   "contacts": {
     "title": "Contatos",
