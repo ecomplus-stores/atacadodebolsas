@@ -60,13 +60,16 @@
     "elo": true,
     "hipercard": false,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": false,
     "mastercard": true,
-    "paypal": true,
+    "paypal": false,
     "citibank": false,
+    "hiper": true,
+    "diners": true,
     "mais": false,
-    "itau": true
+    "amex": true,
+    "itau": false
   },
   "credits": ""
 }
