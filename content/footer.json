@@ -41,6 +41,14 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection"
+    },
+    {
+      "src": "/img/uploads/banner-paypal.png",
+      "alt": "Selos PayPal AtacadoDeBolsas"
+    },
+    {
+      "alt": "Selos Mercado Pago AtacadoDeBolsas",
+      "src": "/img/uploads/icone-mercado-pago.png"
     }
   ],
   "payment_methods": {
