@@ -1,7 +1,7 @@
 {
   "domain": "atacadodebolsas.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ffb733",
+  "primary_color": "#fbf159",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -16,7 +16,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "secondary_color": "#333333",
+  "secondary_color": "#020001",
   "icon": "/img/uploads/logo.jpg",
   "store_id": 2230,
   "description": "Loja Virtual De Atacado De Bolsas. Lindas Bolsas Femininas Direto Da Fábrica Para Revenda. O lugar Ideal Para Quem Procura Bolsas Baratas No Atacado Para Revender.",
