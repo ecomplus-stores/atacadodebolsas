@@ -1,7 +1,7 @@
 {
   "domain": "atacadodebolsas.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#fbf159",
+  "primary_color": "#f1b730",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
