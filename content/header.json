@@ -12,6 +12,10 @@
       {
         "title": "Esta loja é um PWA",
         "link": "/posts/esta-loja-e-um-pwa"
+      },
+      {
+        "title": "Catálogo de Fotos",
+        "link": "https://atacadodebolsas.netlify.app/admin/#/collections/blog-posts/entries/catalogo-de-fotos-de-bolsas-e-mochilas"
       }
     ],
     "phone_wpp": true,
