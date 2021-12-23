@@ -1,1 +1,6 @@
 // Add your custom CSS here.
+@media(max-width: 767px) {
+  .fb_dialog {
+    display: none !important;
+  }
+}
