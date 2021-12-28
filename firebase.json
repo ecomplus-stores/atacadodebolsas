@@ -1,6 +1,11 @@
 {
   "hosting": {
     "redirects": [
+      {
+        "source": "/busca",
+        "destination": "/search?term=",
+        "type": 301
+      }
     ],
     "public": "dist",
     "ignore": [
