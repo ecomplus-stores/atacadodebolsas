@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.6d0722ebd4a67028969288b7759f9c53.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.051fd277d794c694771922ddbb24dd1b.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.964b1fa550b0a7c99070b43767ef2409.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.010e65ada14a64b564fa7e80fc8a79d1.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.9a01d9290231243baba383fd09c92318.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "AtacadoDeBolsas | Bolsas Para Revenda",
+  "short_name": "AtacadoDeBolsas",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Loja Virtual De Atacado De Bolsas. Lindas Bolsas Femininas Direto Da Fábrica Para Revenda. O lugar Ideal Para Quem Procura Bolsas Baratas No Atacado Para Revender.",
+  "background_color": "#ffffff",
+  "theme_color": "#f1b730"
+}
