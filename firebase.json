@@ -2,7 +2,7 @@
   "hosting": {
     "redirects": [
       {
-        "source": "/busca",
+        "source": "/busca*",
         "destination": "/search?term=",
         "type": 301
       }
