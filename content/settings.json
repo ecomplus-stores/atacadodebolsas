@@ -4,7 +4,7 @@
   "primary_color": "#f1b730",
   "theme": {
     "bootswatch": "_",
-    "custom": "clean-white"
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/atacadodebolsas",
