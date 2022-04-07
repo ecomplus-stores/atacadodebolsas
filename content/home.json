@@ -7,13 +7,14 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/banner-direto-fabrica.png",
+          "img": "/img/uploads/img-20160918-wa0000.jpg",
           "link": "https://www.atacadodebolsas.com.br/bolsas-femininas/",
           "alt": "Bolsas Femininas",
           "start": "",
           "end": ""
         }
-      ]
+      ],
+      "full_width": true
     },
     {
       "type": "info-bar",
