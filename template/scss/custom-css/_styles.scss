@@ -4,3 +4,14 @@
     display: none !important;
   }
 }
+@media(min-width: 767px) {
+  .fb_dialog_content iframe {
+    left: 6px !important;
+    bottom: 217px !important;
+}
+
+  #fb-root .fb_iframe_widget > span > iframe {
+    left: 6px !important;
+    bottom: 145px !important;
+  }
+}
