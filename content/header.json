@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos parcelamentos de até 04 x sem juros!",
+    "text": "Aproveite nossos parcelamentos de até 03 x sem juros!",
     "link": "/promotion"
   },
   "contacts_stripe": {
@@ -33,5 +33,6 @@
     "random": 0,
     "full_width": false
   },
-  "search_input": true
+  "search_input": true,
+  "desktop_megamenu": true
 }
