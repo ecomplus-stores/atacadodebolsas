@@ -10,7 +10,7 @@
     },
     {
       "type": "product-specifications",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "product-description",
