@@ -8,6 +8,7 @@
     "strHasQuantitySelector": "true",
     "strHasPromotionTimer": "_",
     "lowQuantityToWarn": 12,
-    "maxVariationOptionsBtns": 15
+    "maxVariationOptionsBtns": 15,
+    "quoteInfo": ""
   }
 }
