@@ -10,8 +10,8 @@
         "link": "/pages/sobre-nos"
       },
       {
-        "title": "Catálogo de Fotos",
-        "link": "/posts/catalogo-de-fotos-de-bolsas-e-mochilas"
+        "title": "Formas de Pagamentos",
+        "link": "/pages/pagamentos"
       }
     ],
     "phone_wpp": true,
@@ -30,5 +30,7 @@
     "full_width": false
   },
   "search_input": true,
-  "desktop_megamenu": true
+  "desktop_megamenu": true,
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": true
 }
