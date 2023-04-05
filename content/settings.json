@@ -8,17 +8,19 @@
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/atacadodebolsas",
-  "logo": "/img/uploads/logo.jpg",
+  "logo": "/img/uploads/atacado-de-bolsas.png",
   "name": "AtacadoDeBolsas | Bolsas Para Revenda",
   "short_name": "AtacadoDeBolsas",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/favicon.png",
+  "font_family": "_",
+  "favicon": "/img/uploads/atacado-de-bolsas.png",
+  "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#020001",
-  "icon": "/img/uploads/logo.jpg",
+  "icon": "/img/uploads/atacado-de-bolsas.png",
   "store_id": 2230,
   "description": "Loja Virtual De Atacado De Bolsas. Lindas Bolsas Femininas Direto Da Fábrica Para Revenda. O lugar Ideal Para Quem Procura Bolsas Baratas No Atacado Para Revender.",
-  "large_icon": "/img/uploads/logo.jpg"
+  "large_icon": "/img/uploads/atacado-de-bolsas.png"
 }
