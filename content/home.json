@@ -17,7 +17,8 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/banner-atacadodebolsas-normal.webp",
-          "mobile_img": "/img/uploads/banner-atacadodebolsas-mobile.webp"
+          "mobile_img": "/img/uploads/banner-atacadodebolsas-mobile.webp",
+          "alt": "AtacadoDeBolsas Para Revenda"
         }
       ],
       "full_width": true
