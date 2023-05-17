@@ -25,7 +25,7 @@
       "page": 1,
       "title": "Todos Produtos",
       "shuffle": true,
-      "headless": false,
+      "headless": true,
       "type": "collection-shelf",
       "link": "bolsas-femininas",
       "limit": 16,
