@@ -25,7 +25,7 @@
       "page": 1,
       "title": "Todos Produtos",
       "shuffle": true,
-      "headless": true,
+      "headless": false,
       "type": "collection-shelf",
       "link": "https://www.atacadodebolsas.com.br/as-preferidas",
       "limit": 16,
